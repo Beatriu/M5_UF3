@@ -1,0 +1,7 @@
+/**
+ * automobil
+ */
+public class automobil {
+
+    
+}
